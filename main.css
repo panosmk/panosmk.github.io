@@ -1,4 +1,4 @@
-body {}
+body {background-color: black; }
 
 .main-image {
 	background-image: url('images/default_images/default_image_2.jpg') ;no-repeat;
@@ -11,7 +11,7 @@ body {}
 
 .main-image p {
 	color: white;
-
+	position: fixed; bottom: 0; width:100%; text-align: center;
 	/*text-shadow: 2px 2px 2px #000000;*/
 	text-shadow:
 	-2px -2px 0 #ff6600,
